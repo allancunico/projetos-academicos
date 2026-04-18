@@ -1,17 +1,21 @@
-Repositório central com meus trabalhos da faculdade.
+# 📚 Projetos Acadêmicos
+
+Repositório com trabalhos desenvolvidos durante a graduação.
 
 ---
 
-## Algoritmos e Estruturas de Dados II - Índices para os arquivos de dados
+## Algoritmos e Estruturas de Dados II - Índices para Arquivos de Dados
 
-🔗 Repositório: https://github.com/SEU-USUARIO/Trabalho-1-Algoritmos-e-Estruturas-de-Dados-II
+Implementação de estruturas de índice para manipulação eficiente de arquivos de dados.
+
+📁 [Abrir projeto](https://github.com/allancunico/projetos-academicos/tree/main/trabalho-1-algoritmos-e-estruturas-de-dados-II)
 
 ---
 
-## Simulator de Cache (C)
+## Simulador de Cache (C)
 
-Simulador de cache desenvolvido em C para estudo de arquitetura de computadores.
+Simulador de memória cache desenvolvido em linguagem C para estudo de arquitetura de computadores.
 
-🔗 Repositório: https://github.com/SEU-USUARIO/cache-simulator-c
+📁 [Abrir projeto](https://github.com/allancunico/projetos-academicos/tree/main/simulador-cache-C)
 
 ---
