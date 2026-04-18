@@ -1,6 +1,6 @@
 # 📚 Projetos Acadêmicos
 
-Repositório com trabalhos desenvolvidos durante a graduação.
+Repositório com alguns trabalhos desenvolvidos durante minha graduação em Ciências da Computação pela Universidade de Caxias do Sul (UCS).
 
 ---
 
